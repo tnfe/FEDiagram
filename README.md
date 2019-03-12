@@ -1,7 +1,7 @@
 # TNFE-Diagram
 ![](https://github.com/Tnfe/TNFE-Diagram/blob/master/assets/banner.png?raw=true)
 
-前端的技术点众多，其中不乏抽象且晦涩的知识点，它们用文字无法很直观的表述出来，所以众多开发者对这些知识点的理解都是是而非，如果我们通过图画来展示，就会很容易理解。因此Diagram项目希望开发者能通过这种方式吃透前端技术领域这些知识点。
+前端的技术点众多，其中不乏抽象且晦涩的知识点，它们用文字无法很直观的表述出来，所以众多开发者对这些知识点的理解都是是而非，如果我们通过图画来展示，就会很容易理解。因此Diagram项目希望开发者能通过这种方式吃透前端技术领域的知识点。
 
 <br />
 
@@ -23,6 +23,16 @@
 
 <br />
 
-### 1.http是什么
+## :postbox: ​Let`s Begin
+
+- http是什么
 
 <a href="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/http%20what.png"><img src="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/http%20what.png" alt="GitHub" title="http what" width="150" height="150" /></a>
+
+- 什么是进程
+
+<a href="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/process.jpg"><img src="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/process.jpg" alt="GitHub" title="process" width="150" height="150"/></a>
+
+- React New LifeCycle
+
+<a href="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/React%20New%20Lifecycle.jpg"><img src="https://raw.githubusercontent.com/Tnfe/TNFE-Diagram/master/assets/React%20New%20Lifecycle.jpg" alt="GitHub" title="React New LifeCycle" width="150" height="150"/></a>
