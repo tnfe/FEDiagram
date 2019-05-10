@@ -31,5 +31,6 @@
 4. [第四期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E5%9B%9B%E6%9C%9F.md)
 5. [第五期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E4%B8%89%E6%9C%9F.md)
 6. [第六期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E5%85%AD%E6%9C%9F.md)
-6. [第七期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
+7. [第七期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
+8. [第八期](https://github.com/Tnfe/TNFE-Diagram/blob/master/%E7%AC%AC%E5%85%AB%E6%9C%9F.md)
 
