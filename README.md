@@ -13,7 +13,8 @@
 
 ## :steam_locomotive: ​团队博客
 
-[腾讯新闻前端团队-TNFE](https://segmentfault.com/blog/tnfe)
+  - 思否 ：[腾讯新闻前端团队-TNFE-思否](https://segmentfault.com/blog/tnfe)
+  - 掘金：[腾讯新闻前端团队-TNFE-掘金](https://juejin.cn/user/2277843821933751)
 
 <br />
 
