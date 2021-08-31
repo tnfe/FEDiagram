@@ -1,4 +1,4 @@
-# TNFE-Diagram
+# TNTWEB-Diagram
 ![](https://github.com/Tnfe/TNFE-Diagram/blob/master/assets/banner.png?raw=true)
 
 前端的技术点众多，其中不乏抽象且晦涩的知识点，它们用文字无法很直观的表述出来，所以众多开发者对这些知识点的理解都是是而非，如果我们通过图画来展示，就会很容易理解。因此Diagram项目希望开发者能通过这种方式吃透前端技术领域的知识点。
@@ -13,14 +13,14 @@
 
 ## :steam_locomotive: ​团队博客
 
-  - 思否 ：[腾讯新闻前端团队-TNFE-思否](https://segmentfault.com/blog/tnfe)
-  - 掘金：[腾讯新闻前端团队-TNFE-掘金](https://juejin.cn/user/2277843821933751)
+  - 思否 ：[腾讯新闻前端团队-TNTWEB-思否](https://segmentfault.com/blog/tnfe)
+  - 掘金：[腾讯新闻前端团队-TNTWEB-掘金](https://juejin.cn/user/2277843821933751)
 
 <br />
 
 ## :cat: 团队Github
 
-[TNFE](https://github.com/Tnfe)
+[TNTWEB](https://github.com/Tnfe)
 
 <br />
 
